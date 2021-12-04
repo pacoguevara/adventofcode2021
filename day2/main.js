@@ -58,4 +58,4 @@ function solve2(data) {
   return position * depth;
 }
 
-console.log(solve2(data2));
+console.log(solve2(data1));
